@@ -4,8 +4,8 @@ I'm an aspiring **Data Scientist** who loves Analysis, Statistics and Machine Le
 After completing the intensive **TripleTen Data Science Bootcamp**, I've been diving deep into the world of **machine learning**, **data storytelling**, and everything in between.
 
 ## 🚀 What I do
-- Explore data with curiosity and clean it like a pro 🧹
-- Build machine learning models to solve real-world problems 🤖
+- I enjoy a lot exploring, reach to conclusions and cleaning data 🧹
+- I like to build machine learning models and reach high performance 🤖
 - Visualize data to make it understandable and actionable 📊
 - Constantly learn new tools, tricks, and techniques to grow as a data scientist 🌱
 
@@ -17,6 +17,7 @@ After completing the intensive **TripleTen Data Science Bootcamp**, I've been di
 ## 📂 Featured Project
 Here is a project I’m proud of:
 - 🛍️ **DataScience-TripleTen** – Where you can find all my bootcamp projects
+- 📈 **Churn Interconnect Services** - An analysis of customer behaviour and churn prediction with ML
 
 ## 🌍 Let's Connect!
 I’m always open to feedback, collaborations, or just a good data chat!  
