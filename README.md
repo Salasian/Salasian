@@ -18,6 +18,8 @@ After completing the intensive **TripleTen Data Science Bootcamp**, I've been di
 Here is a project I’m proud of:
 - 🛍️ **DataScience-TripleTen** – Where you can find all my bootcamp projects
 - 📈 **Churn Interconnect Services** - An analysis of customer behaviour and churn prediction with ML
+- 📊 **Climate Change Tableau Dashboard** - An interactive dashboard visualizing climate change indicators and trends
+- ⚒️ Gold Recovery Prediction (Zyfra Challenge) – End-to-end ML pipeline predicting gold extraction efficiency from mineral ore
 
 ## 🌍 Let's Connect!
 I’m always open to feedback, collaborations, or just a good data chat!  
